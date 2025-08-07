@@ -2,7 +2,7 @@
 ## Welcome 👋
 My name is Saad, and I am currently pursuing a Masters in **Data Science and Machine Learning** at Georgia Tech. 
 
-I mainly write in **Python & R**, but enjoy the entire data process so I've picked up skills in **SQL, HTML, Flask & Streamlit, Tableau, AWS, Docker, Github Actions**, etc.
+I mainly write in **Python & R**, but enjoy the entire data process - check out my technology stack below!
 
 ![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-B3A369?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
 ![UC Davis](https://img.shields.io/badge/UC%20Davis-002855?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
@@ -10,9 +10,8 @@ I mainly write in **Python & R**, but enjoy the entire data process so I've pick
 My undergraduate major was in Biochemistry & Molecular Biology with a focus on statistics and experimental design.
 
 ## 📈 Recent Activity
-- 🔭 I'm currently working on [Project Name]
-- 🌱 I'm currently learning [Technology/Skill]
-- 💬 Ask me about [Your Expertise]
+- 🔭 I'm currently working on a [Network Security](https://github.com/saadabdullah098/NetworkSecurity) project.
+- 🌱 I'm currently refreshing my knowledge on [probability distributions](https://www.youtube.com/watch?v=sEte4hXEgJ8&t=749s).
 
 ## ⌨️ Technologies
 ### Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
